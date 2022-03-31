@@ -1,0 +1,5 @@
+1. You can use "git branch BRANCH_NAME" or "git checkout -b BRANCH_NAME"
+2. fast forwards can only happen if there have not been commits on the original branch while the new branch is being worked on
+3. git checkout
+4. git branch -d 
+5. Merge conflicts occur when a change on a branch conflicts with a different change on the branch/master that it is merging into.
